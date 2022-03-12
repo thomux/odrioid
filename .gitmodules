@@ -14,3 +14,7 @@
 	path = layers/meta-odroid
 	url = https://github.com/akuster/meta-odroid.git
 	branch = honister
+[submodule "layers/meta-security"]
+	path = layers/meta-security
+	url = https://git.yoctoproject.org/meta-security
+	branch = honister
