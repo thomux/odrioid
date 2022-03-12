@@ -6,3 +6,9 @@ work/tmp/**/*
 work/tmp
 work/bitbake*
 work/hashserve*
+image/cache/**/*
+image/cache
+image/tmp/**/*
+image/tmp
+image/bitbake*
+image/hashserve*
