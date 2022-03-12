@@ -1,0 +1,8 @@
+downloads/**/*
+sstate-cache/**/*
+work/cache/**/*
+work/cache
+work/tmp/**/*
+work/tmp
+work/bitbake*
+work/hashserve*
