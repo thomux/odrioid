@@ -1,0 +1,16 @@
+[submodule "layers/meta-virtualization"]
+	path = layers/meta-virtualization
+	url = https://git.yoctoproject.org/meta-virtualization
+	branch = honister
+[submodule "layers/meta-openembedded"]
+	path = layers/meta-openembedded
+	url = https://git.openembedded.org/meta-openembedded
+	branch = honister
+[submodule "layers/meta-selinux"]
+	path = layers/meta-selinux
+	url = https://git.yoctoproject.org/meta-selinux
+	branch = honister
+[submodule "layers/meta-odroid"]
+	path = layers/meta-odroid
+	url = https://github.com/akuster/meta-odroid.git
+	branch = honister
