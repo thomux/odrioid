@@ -10,5 +10,6 @@ image/cache/**/*
 image/cache
 image/tmp/**/*
 image/tmp
+image/tmp*
 image/bitbake*
 image/hashserve*
