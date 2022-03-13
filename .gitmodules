@@ -18,3 +18,9 @@
 	path = layers/meta-security
 	url = https://git.yoctoproject.org/meta-security
 	branch = honister
+[submodule "layers/meta-thomux"]
+	path = layers/meta-thomux
+	url = git@github.com:thomux/meta-thomux.git
+[submodule "layers/meta-thomux-odroid"]
+	path = layers/meta-thomux-odroid
+	url = git@github.com:thomux/meta-thomux-odroid.git
