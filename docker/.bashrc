@@ -118,4 +118,4 @@ fi
 
 ~/init.sh
 
-source poky/oe-init-build-env work/
+source layers/poky/oe-init-build-env work/
