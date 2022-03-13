@@ -9,4 +9,4 @@ qemu-system-arm \
     -m 256 \
     -nographic \
     -kernel ${PWD}/work/tmp/deploy/images/qemuarm/zImage-qemuarm.bin \
-    -append 'root=/dev/vda rw  mem=256M ip=dhcp console=ttyAMA0 console=hvc0 vmalloc=256 '
+    -append 'root=/dev/vda ro  mem=256M ip=dhcp console=ttyAMA0 console=hvc0 vmalloc=256 '
